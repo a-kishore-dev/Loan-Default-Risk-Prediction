@@ -1,0 +1,14 @@
+polars
+scikit-learn
+lightgbm
+xgboost
+catboost
+mlflow
+pandas
+numpy
+matplotlib
+plotly
+skops
+python-dotenv
+
+astro-run-dag # This package is needed for the astro run command. It will be removed before a deploy
