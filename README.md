@@ -125,7 +125,7 @@ The confusion matrix shows the distribution of True Positives, True Negatives, F
 
 ### SHAP Summary Plot
 
-<img src="artifact/shap_summary_plot.png" width="500" height="400">
+<img src="images/shap_summary_plot.png" width="500" height="400">
 
 The SHAP summary plot reveals the most influential features for predictions:
 - Shows how each feature pushes the model output from the base value
@@ -134,7 +134,7 @@ The SHAP summary plot reveals the most influential features for predictions:
 
 ### SHAP Waterfall Plot
 
-<img src="artifact/shap_waterfall_plot.png" width="500" height="350">
+<img src="images/shap_waterfall_plot.png" width="500" height="350">
 
 The waterfall plot breaks down a single prediction, showing:
 - Base model output (expected value)
