@@ -244,7 +244,7 @@ View detailed run information and compare model performance across experiments.
 1. **Clone Repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/a-kishore-dev/Loan-Default-Risk-Prediction
 cd Loan_Default_Risk_Predictor
 ```
 
